@@ -6,9 +6,9 @@
 
 <br/>
 
-Diploma III Computer Technology student at **Institut Teknologi Del** 🎓  
+Computer Technology student at **Institut Teknologi Del**
 I enjoy building systems end to end, from sensors to software.  
-Open to **feedback**, **code reviews**, and **collaboration** 🤝
+Open to **feedback**, **code reviews**, and **collaboration**
 
 <br/>
 
